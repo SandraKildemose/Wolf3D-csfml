@@ -1,0 +1,1 @@
+SRCS = main.c raycasting.c movement.c init.c menu.c weapon.c enemy.c hud.c 
