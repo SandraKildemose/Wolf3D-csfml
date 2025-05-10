@@ -12,7 +12,7 @@ The project demonstrates low-level rendering techniques, player movement, and te
 - CSFML for rendering and audio
 
 ## Controls
-- `WASD` — move
+- `W` `A` `S` `D` — move
 - `Arrow keys` — rotate
 - `Space` — shoot
 - `R` — switch weapon
