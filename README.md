@@ -1,6 +1,9 @@
 # Wolf3D – Raycasting Shooter (CSFML)
 
-This is a simple first-person shooter inspired by Wolfenstein 3D, built using raycasting and the CSFML library (C binding for SFML).  
+Ongoing project developed in 2025 as part of at Epitech Paris 2025, semester.  
+Due for completion in June 2025.
+
+It is a simple first-person shooter inspired by Wolfenstein 3D, built using raycasting and the CSFML library (C binding for SFML).  
 The project demonstrates low-level rendering techniques, player movement, and texture mapping in C.
 
 ## Features
@@ -28,4 +31,5 @@ To install CSFML:
 ```bash
 make
 ./wolf3d
+
 
